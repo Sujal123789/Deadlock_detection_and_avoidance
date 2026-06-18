@@ -1,2 +1,2 @@
 # Deadlock_detection_and_avoidance
-Deadlock_detection_and_avoidance using python flask framework
+Deadlock detection and avoidance using python flask framework
